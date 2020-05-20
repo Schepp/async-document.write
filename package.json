@@ -1,0 +1,28 @@
+{
+  "name": "async-document.write",
+  "version": "1.0.0",
+  "description": "Patches document.write to execute in a non-blocking way.",
+  "main": "async-document.write.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schepp/async-document.write.git"
+  },
+  "keywords": [
+    "document.write",
+    "async",
+    "non-blocking",
+    "performance",
+    "wpo",
+    "3rd",
+    "party"
+  ],
+  "author": "Christian \"Schepp\" Schaefer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Schepp/async-document.write/issues"
+  },
+  "homepage": "https://github.com/Schepp/async-document.write#readme"
+}
