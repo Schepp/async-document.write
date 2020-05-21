@@ -1,6 +1,6 @@
 {
   "name": "async-document.write",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Patches document.write to execute in a non-blocking way.",
   "main": "async-document.write.js",
   "scripts": {
