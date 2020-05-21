@@ -24,7 +24,7 @@
     var parentElement = sourceScript.parentElement;
     var nextSibling = nextSiblings.get(sourceScript);
 
-    if (nextSiblings === undefined) {
+    if (nextSibling === undefined) {
       nextSibling = sourceScript.nextSibling;
       nextSiblings.set(sourceScript, nextSibling);
     }
